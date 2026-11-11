@@ -6,8 +6,7 @@ Análisis exploratorio de datos en Python sobre los pasajeros del Titanic, para 
 ## Datos
 - Dataset `titanic` de la librería seaborn: 891 pasajeros y 15 columnas.
 - Se carga con `sns.load_dataset("titanic")`, por lo que hace falta conexión a internet la primera vez que se ejecuta.
-- Origen:repositorio publico [seaborn-data]
-(https://github.com/mwaskom/seaborn-data), descargado automaticamente por seaborn.
+- Origen: repositorio público [seaborn-data](https://github.com/mwaskom/seaborn-data), descargado automáticamente por seaborn.
 
 ## Hallazgos principales
 Sobrevivió el 38,4 % de los pasajeros.
