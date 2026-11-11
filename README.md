@@ -1,13 +1,13 @@
 # Titanic: ¿qué factores se asociaron con sobrevivir?
-El sexo fue el factor mas asociado a sobrevivir (74,2% de las mujeres frente al 18,9% de los hombres), seguido de la clase del billete (63,0% en 1.ª frente al 24,2 en 3.ª)
+El sexo fue el factor mas asociado a sobrevivir (74,2% de las mujeres frente al 18,9% de los hombres), seguido de la clase del billete (63,0% en 1.ª frente al 24,2% en 3.ª)
 
 Análisis exploratorio de datos en Python sobre los pasajeros del Titanic, para responder a una pregunta concreta: **¿qué factores (sexo, clase, edad, compañía de viaje y tarifa) se asociaron más con sobrevivir?**
 
 ## Datos
 - Dataset `titanic` de la librería seaborn: 891 pasajeros y 15 columnas.
 - Se carga con `sns.load_dataset("titanic")`, por lo que hace falta conexión a internet la primera vez que se ejecuta.
-- Origen: copia del dataset incluida en el repositorio [seaborn-data]
-(https://github.com/mwaskom/seaborn-data).
+- Origen:repositorio publico [seaborn-data]
+(https://github.com/mwaskom/seaborn-data), descargado automaticamente por seaborn.
 
 ## Hallazgos principales
 Sobrevivió el 38,4 % de los pasajeros.
